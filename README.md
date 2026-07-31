@@ -20,17 +20,13 @@
 
 🔹 **Casa Inteligente** 
 > Projeto de sistemas embarcados desenvolvido na PUCRS utilizando um microcontrolador STM32. Integra sensores, atuadores e protocolos de comunicação (I2C, SPI e UART) para automatizar o monitoramento e controle de uma residência inteligente.
+
 ➡️ **Repositório:** https://github.com/ArthurMazot/LaboratorioProcessadores
 
 🔹 **Simulando Um Sistema Operacional**
 > Projeto desenvolvido em C++ que simula os principais componentes de um sistema operacional, incluindo CPU, gerenciamento de processos, memória física e virtual, escalonador Round-Robin e chamadas de sistema.
+
 ➡️ **Repositório:** https://github.com/ArthurMazot/SysOp
-
-## Estatísticas
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ArthurMazot&theme=tokyonight)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArthurMazot&theme=tokyo-night)
 
 ## Contato
 
