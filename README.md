@@ -28,6 +28,11 @@
 
 ➡️ **Repositório:** https://github.com/ArthurMazot/SysOp
 
+🔹 **Space Invaders em FPGA**
+>  Implementação do clássico Space Invaders em FPGA, combinando VHDL para controle de hardware (VGA e periféricos) e C para a lógica do jogo, incluindo movimentação, colisões, pontuação e gerenciamento de vidas.
+
+➡️ **Repositório:** https://github.com/ArthurMazot/Space-Invaders-FPGA
+
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-mazot-875548288/)
